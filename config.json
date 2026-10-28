@@ -1,0 +1,12 @@
+{
+  "check_every_minutes": 60,
+  "country": "US",
+  "notify_on_first_run": true,
+  "sources": {
+    "epic": true,
+    "steamdb": true,
+    "gamerpower": true,
+    "gog": true,
+    "humble": true
+  }
+}
